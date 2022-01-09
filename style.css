@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.ahamednibir{
+    color: darkorange;
+}
+h1{
+    font-size: 50px;
+}
+.firstpragraph{
+    font-size: 20px;
+}
+section{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 30px;
+}
+.half-width{
+    width: 100%;
+}
+.contactmebutton{
+    text-decoration: none;
+    background-image: linear-gradient( orange, tomato);
+    padding: 7px 20px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat
+}
+.read{
+    color:rgb(0, 0, 0);
+    padding-left: 50px;
+    width: 50%;
+}
+.learn{
+    color: rgb(0, 0, 0);
+}
+.ahamed{
+    color: green;
+}
+.develop{
+    color: rgb(255, 38, 0);
+}
+.bgimg{
+    background-image: url(images/pixle.jpg);
+    background-size: 100%;
+    display: flex;
+}
+.copykorci{
+    padding: 7px
+}
+.copy{
+    padding: 40ox;
+    margin: 10px;
+}
+.pra{
+    padding-left: 15px;
+    color: rgb(1, 255, 1);
+}
+.add-image{
+    background-image: url(images/pixle.jpg);
+    background-repeat: no-repeat;
+}
+.pra-2{
+    color: rgb(0, 247, 255);
+}
